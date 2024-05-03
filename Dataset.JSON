@@ -1,0 +1,30 @@
+{
+    "events": [
+
+        {
+            "Type": "ERROR",
+            "GEO Coordinates": {
+                "Latitude": " 52.5200° N",
+                "Longitude": "13.4050° E"
+            },
+            "Time": "2024-5-3-19:21:06",
+            "Model": "Tower Server 4 sockets XRP22S",
+            "port": 1003,
+            "code": 404,
+            "Message": "Port Not Found"
+        },
+        {
+            "Type": "ERROR",
+            "GEO Coordinates": {
+                "Latitude": " 48.8566° N",
+                "Longitude": " 2.3522° E"
+            },
+            "Time": "2024-5-3-19:21:53",
+            "Model": "Rack Server 1 socket ALL7",
+            "port": 98,
+            "code": 1020,
+            "Message": "Connection Refused"
+        }
+
+    ]
+}
